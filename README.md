@@ -2,7 +2,7 @@
   <img src="https://github.com/NubsCarson/NubsCarson/blob/main/ProfileLogo.svg" width="1200" height="300" style="max-width: 100%;">
 </div>
 
-# 👋 Sup, I'm NubsCarson
+# 👋 Hi, my name is Carson and I am 19 years old.
 
 > Building based tools for the Web3 ecosystem.
 
