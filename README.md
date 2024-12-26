@@ -4,7 +4,7 @@
 
 # 👋 Sup, I'm NubsCarson
 
-> Building based tools for the Web3 ecosystem. No cap.
+> Building based tools for the Web3 ecosystem.
 
 ## 🚀 Current Projects
 
