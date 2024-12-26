@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NubsCarson/X-TwitterUsernameFinder/raw/main/static/img/twitter.svg" width="1200" height="300" style="max-width: 100%;">
+  <img src="https://github.com/NubsCarson/NubsCarson/blob/main/ProfileLogo.svg" width="1200" height="300" style="max-width: 100%;">
 </div>
 
 # 👋 Sup, I'm NubsCarson
