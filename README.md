@@ -6,6 +6,22 @@
 
 > Building based tools for the Web3 ecosystem.
 
+## 🚀 About Me
+
+Started my crypto journey in 2017 at age 13, diving deep into blockchain tech and Web3. Been through all the cycles - bull markets, bear markets, and everything in between. Now focusing on building tools that actually solve problems in the space.
+
+### 💻 My Coding Journey
+- Started learning to code in the beginning of 2024
+- Self-taught through building real projects
+- Focus on Web3 and AI integration
+- Passionate about creating tools that bring value to the community
+
+### 🎯 What I'm About
+- Building practical Web3 tools
+- Learning and shipping every day
+- Contributing to the crypto ecosystem
+- Bridging AI and blockchain technology
+
 ## 🚀 Current Projects
 
 ### [X-TwitterUsernameFinder](https://github.com/NubsCarson/X-TwitterUsernameFinder)
