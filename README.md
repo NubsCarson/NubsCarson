@@ -11,7 +11,7 @@
 Started my crypto journey in 2017 at age 13, diving deep into blockchain tech and Web3. Been through all the cycles - bull markets, bear markets, and everything in between. Now focusing on building tools that actually solve problems in the space.
 
 ### 💻 My Coding Journey
-- Started learning to code in the beginning of 2024
+- Started learning to code in mid of 2024
 - Self-taught through building real projects
 - Focus on Web3 and AI integration
 - Passionate about creating tools that bring value to the community
@@ -24,7 +24,7 @@ Started my crypto journey in 2017 at age 13, diving deep into blockchain tech an
 
 ## 🚀 Current Projects
 
-### [X-TwitterUsernameFinder](https://github.com/NubsCarson/X-TwitterUsernameFinder)
+### 
 AI-powered username generator and checker. Find rare X handles using advanced algorithms and real-time validation.
 - 🤖 Multiple AI models
 - ⚡ Real-time validation
@@ -36,8 +36,8 @@ AI-powered username generator and checker. Find rare X handles using advanced al
 ```js
 const stack = {
     blockchain: ['Solana', 'Web3.js'],
-    languages: ['Python', 'JavaScript', 'Rust'],
-    ai: ['OpenAI', 'Claude', 'Gemini'],
+    languages: ['Python', 'JavaScript', 'TypeScript', 'Rust'],
+    ai: ['OpenAI', 'Claude', 'DeepSeek'],
     frontend: ['HTML', 'CSS', 'React'],
     backend: ['Flask', 'Node.js'],
     tools: ['Git', 'VSCode', 'Docker']
