@@ -22,7 +22,7 @@ Started my crypto journey in 2017 at age 13, diving deep into blockchain tech an
 - Contributing to the crypto ecosystem
 - Bridging AI and blockchain technology
 
-## 🚀 Current Projects
+
 
 ### 
 AI-powered username generator and checker. Find rare X handles using advanced algorithms and real-time validation.
