@@ -46,7 +46,6 @@ const stack = {
 
 - 🐦 X: [@MoneroSolana](https://x.com/monerosolana)
 - 💬 Discord: [@1gig](https://discord.com/users/1284887060825509890)
-- 📱 Telegram: [@ChillWeb3Dev](https://t.me/ChillWeb3Dev)
 
 ---
 
