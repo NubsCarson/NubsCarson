@@ -24,12 +24,6 @@ Started my crypto journey in 2017 at age 13, diving deep into blockchain tech an
 
 
 
-### 
-AI-powered username generator and checker. Find rare X handles using advanced algorithms and real-time validation.
-- 🤖 Multiple AI models
-- ⚡ Real-time validation
-- 💎 Solana integration
-- 🔥 Built different
 
 ## 💫 Tech Stack
 
